@@ -1,9 +1,3 @@
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/nazuwi04/nazuwi04/main/assets/header.gif" width="400" alt="header" />
-
-</div>
-
 # Hi, I'm Gian 
 
 I'm a student in the Philippines.
