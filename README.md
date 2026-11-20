@@ -5,7 +5,7 @@ I'm currently learning Java and building minimal projects.
 
 ## 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=linux,mysql,vscode,git,github,lua,java,html" width="300" />
+<img src="https://skillicons.dev/icons?i=linux,mysql,vscode,git,github,lua,java,html" width="500" />
 
 ## 📫 Contact
 
